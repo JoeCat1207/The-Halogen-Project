@@ -13,4 +13,6 @@ https://bitbuilt.net/forums/index.php?threads/gc-2-0-documentation.3228/ - GC+ 2
 https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-trimming-guide.198/ - Wii trimming
 
 
+![Wii_Portable_Layout_2022-Apr-10_08-33-45PM-000_CustomizedView1501432066](https://user-images.githubusercontent.com/36356602/163496309-ae1c9e54-593d-4623-ab21-7cc6405c0b30.jpg)
 
+Non Final rendering of the portable, lots of changes have happened since that render, so take it with a grain of salt.
